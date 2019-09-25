@@ -26,7 +26,7 @@ fonts {
   style: "normal"
   weight: 300
   filename: "Blinker-Light.ttf"
-  post_script_name: "Blinker-ExtraLight"
+  post_script_name: "Blinker-Light"
   full_name: "Blinker ExtraLight"
   copyright: "Copyright 2019 the Blinker project authors (https://github.com/supertype-de/Blinker)"
 }
